@@ -65,7 +65,7 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your local machine:
 
-  git clone https://github.com/gauravgangwarweb/Awesome-books-ES6.git
+  git clone https://github.com/gauravgangwarweb/Awesome-Book-ES6.git
 
 
 ### Run 
